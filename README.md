@@ -158,16 +158,16 @@ After discussion with the client, I kept only the important and useful cells:
 On the left we can see the legend of the conditional formatting. The legend is organised in three columns: the colour of the affected cell / where it occurs / meaning.
 
 Translation:
- - 1) red / everywhere / when the cell is not filled in (important: cells in red will not be taken for the automatic calculation of the TVA sheet).
- - 2) red / cells E to H (pre-tax amount and tax distribution) / when the total of the tax distribution is different from the pre-tax amount.
- - 3) blue / cells B, D or U (invoice number, mission or note)/ when there is the letter 'A' in the invoice number, or the word 'avoir' in mission or note.
- - 4) red + white font / cell B (invoice number) / when there is already this invoice number and it is a duplicates.
- - 5) white + green font / cell K ('amount of the paiement TTC') / when the invoice is fully paid.
- - 6) white + red font / cells K and M ('amount of the paiement TTC' and 'reste to pay') / when theinvoice is not fully paid.
- - 7) white + blue strikethrough font / cells J to R / when there is the letter 'A' in the invoice number, or the word 'avoir' in mission or note.
- - 8) green + white font / cells Q and R (Unpaid totals) / when all is fully paid (even if it was in one or two times).
- - 9) red + red font / cells Q and R (Unpaid totals) / when all is not fully paid (even if it was in one or two times).
- - 10) red + blue strikethrough font / cells Q and R (Unpaid totals) / when there is the letter 'A' in the invoice number, or the word 'avoir' in mission or note.
+1) red / everywhere / when the cell is not filled in (important: cells in red will not be taken for the automatic calculation of the TVA sheet).
+2) red / cells E to H (pre-tax amount and tax distribution) / when the total of the tax distribution is different from the pre-tax amount.
+3) blue / cells B, D or U (invoice number, mission or note)/ when there is the letter 'A' in the invoice number, or the word 'avoir' in mission or note.
+4) red + white font / cell B (invoice number) / when there is already this invoice number and it is a duplicates.
+5) white + green font / cell K ('amount of the paiement TTC') / when the invoice is fully paid.
+6) white + red font / cells K and M ('amount of the paiement TTC' and 'reste to pay') / when theinvoice is not fully paid.
+7) white + blue strikethrough font / cells J to R / when there is the letter 'A' in the invoice number, or the word 'avoir' in mission or note.
+8) green + white font / cells Q and R (Unpaid totals) / when all is fully paid (even if it was in one or two times).
+9) red + red font / cells Q and R (Unpaid totals) / when all is not fully paid (even if it was in one or two times).
+10) red + blue strikethrough font / cells Q and R (Unpaid totals) / when there is the letter 'A' in the invoice number, or the word 'avoir' in mission or note.
  
 On the right is an explanation of how the 'avoir' (credit on the invoice) is considered and its effect on the totals. With my contact information if the client has a problem or does not understand something.
  
