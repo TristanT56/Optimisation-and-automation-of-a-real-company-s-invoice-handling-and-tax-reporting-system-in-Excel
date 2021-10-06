@@ -56,34 +56,11 @@ To facilitate the understanding of the context, I will explain here some words (
    
 Below we can see a sample of the complete sheets (I have hidden the names of the companies in the 'AFFAIRES' column for confidentiality reasons):
 
-
-```python
-from IPython.display import Image
-Image(r'C:\Users\Tristan\Documents\IMPORTANT\MOOCs\ExcelMOOC\Pres excel project\pic\Analysing_before1.JPG')
-```
-
-
-
-
+ 
+![excel_project1]( https://github.com/TristanT56/Optimisation-and-automation-of-a-real-company-s-invoice-handling-and-tax-reporting-system-in-Excel/blob/main/Images%20for%20Readme%20markdown/output_3_0.jpg)
     
-![jpeg](output_3_0.jpg)
+![excel_project1]( https://github.com/TristanT56/Optimisation-and-automation-of-a-real-company-s-invoice-handling-and-tax-reporting-system-in-Excel/blob/main/Images%20for%20Readme%20markdown/output_4_0.jpg)
     
-
-
-
-
-```python
-Image(r'C:\Users\Tristan\Documents\IMPORTANT\MOOCs\ExcelMOOC\Pres excel project\pic\Analysing_before2.JPG')
-```
-
-
-
-
-    
-![jpeg](output_4_0.jpg)
-    
-
-
 
 **To comment that we will take the example of the 'Entreprise XXX8' in both tabs:**
 
@@ -125,18 +102,7 @@ We will reorganise, optimise and automate all this, as it can lead to errors and
 
 There are cells from A to U so I will post the full view but also zoom in on different parts of this main sheet:
 
-
-```python
-Image(r'C:\Users\Tristan\Documents\IMPORTANT\MOOCs\ExcelMOOC\Pres excel project\pic\full_main_sheet.JPG')
-```
-
-
-
-
-    
-![jpeg](output_8_0.jpg)
-    
-
+![excel_project1]( https://github.com/TristanT56/Optimisation-and-automation-of-a-real-company-s-invoice-handling-and-tax-reporting-system-in-Excel/blob/main/Images%20for%20Readme%20markdown/output_8_0.jpg)
 
 
 #### Goal of this sheet:
@@ -148,17 +114,8 @@ Image(r'C:\Users\Tristan\Documents\IMPORTANT\MOOCs\ExcelMOOC\Pres excel project\
 
 **Let's zoom in of the left part (Cells: A to I):**
 
-
-```python
-Image(r'C:\Users\Tristan\Documents\IMPORTANT\MOOCs\ExcelMOOC\Pres excel project\pic\main_left_part.JPG')
-```
-
-
-
-
     
-![jpeg](output_11_0.jpg)
-    
+![excel_project1]( https://github.com/TristanT56/Optimisation-and-automation-of-a-real-company-s-invoice-handling-and-tax-reporting-system-in-Excel/blob/main/Images%20for%20Readme%20markdown/output_11_0.jpg)
 
 
 
@@ -175,18 +132,9 @@ After discussion with the client, I kept only the important and useful cells:
 
 **Let's zoom in of the right part (Cells: J to U):**
 
-
-```python
-Image(r'C:\Users\Tristan\Documents\IMPORTANT\MOOCs\ExcelMOOC\Pres excel project\pic\main_right_part.JPG')
-```
-
-
-
-
     
-![jpeg](output_14_0.jpg)
+![excel_project1]( https://github.com/TristanT56/Optimisation-and-automation-of-a-real-company-s-invoice-handling-and-tax-reporting-system-in-Excel/blob/main/Images%20for%20Readme%20markdown/output_14_0.jpg)
     
-
 
 
 **Explanation:**
@@ -202,17 +150,7 @@ Image(r'C:\Users\Tristan\Documents\IMPORTANT\MOOCs\ExcelMOOC\Pres excel project\
 **Let's zoom in of the parts under the tab, the legend:**
 
 
-```python
-Image(r'C:\Users\Tristan\Documents\IMPORTANT\MOOCs\ExcelMOOC\Pres excel project\pic\main_legend.JPG')
-```
-
-
-
-
-    
-![jpeg](output_17_0.jpg)
-    
-
+![excel_project1]( https://github.com/TristanT56/Optimisation-and-automation-of-a-real-company-s-invoice-handling-and-tax-reporting-system-in-Excel/blob/main/Images%20for%20Readme%20markdown/output_17_0.jpg)
 
 
 **Explanation:**
@@ -236,19 +174,9 @@ On the right is an explanation of how the 'avoir' (credit on the invoice) is con
 
 **Let's zoom in of the parts under the tab, the sum-up chart:**
 
-
-```python
-Image(r'C:\Users\Tristan\Documents\IMPORTANT\MOOCs\ExcelMOOC\Pres excel project\pic\main_chart.JPG')
-```
-
-
-
-
     
-![jpeg](output_20_0.jpg)
+![excel_project1]( https://github.com/TristanT56/Optimisation-and-automation-of-a-real-company-s-invoice-handling-and-tax-reporting-system-in-Excel/blob/main/Images%20for%20Readme%20markdown/output_20_0.jpg)
     
-
-
 
 Finally, for the main sheet, we can see a chart and a tab that summarises the totals (paid/unpaid, pre/post tax) by year.
 
@@ -262,17 +190,7 @@ Visualisation was not an objective for this project, which is why there is only 
 #### 1) Data validation - Example for a colunm with date <a class="anchor" id="section_3_2_1"></a>
 
 
-```python
-Image(r'C:\Users\Tristan\Documents\IMPORTANT\MOOCs\ExcelMOOC\Pres excel project\pic\validation_col_a.JPG')
-```
-
-
-
-
-    
-![jpeg](output_23_0.jpg)
-    
-
+![excel_project1]( https://github.com/TristanT56/Optimisation-and-automation-of-a-real-company-s-invoice-handling-and-tax-reporting-system-in-Excel/blob/main/Images%20for%20Readme%20markdown/output_23_0.jpg)
 
 
 **Comment:** 
@@ -283,18 +201,8 @@ Ps: All columns with dates have this data validation.
 
 #### 2) Data validation - Example for a colunm with numbers <a class="anchor" id="section_3_2_2"></a>
 
-
-```python
-Image(r'C:\Users\Tristan\Documents\IMPORTANT\MOOCs\ExcelMOOC\Pres excel project\pic\validation_col_e.JPG')
-```
-
-
-
-
     
-![jpeg](output_26_0.jpg)
-    
-
+![excel_project1]( https://github.com/TristanT56/Optimisation-and-automation-of-a-real-company-s-invoice-handling-and-tax-reporting-system-in-Excel/blob/main/Images%20for%20Readme%20markdown/output_26_0.jpg)
 
 
 **Comment:** 
@@ -307,18 +215,8 @@ Ps: All columns with numbers have this data validation.
 
 #### 3) Conditional formatting - Case of a duplicate invoice number <a class="anchor" id="section_3_2_3"></a>
 
-
-```python
-Image(r'C:\Users\Tristan\Documents\IMPORTANT\MOOCs\ExcelMOOC\Pres excel project\pic\validation_col_b.JPG')
-```
-
-
-
-
     
-![jpeg](output_29_0.jpg)
-    
-
+![excel_project1]( https://github.com/TristanT56/Optimisation-and-automation-of-a-real-company-s-invoice-handling-and-tax-reporting-system-in-Excel/blob/main/Images%20for%20Readme%20markdown/output_29_0.jpg)
 
 
 **Comment:** The conditional formatting rule is used here to highlight cells containing an error, which is a duplicate invoice number. 
@@ -326,17 +224,7 @@ Image(r'C:\Users\Tristan\Documents\IMPORTANT\MOOCs\ExcelMOOC\Pres excel project\
 #### 4) Conditional formatting - Case of invoice paid/ unpaid/ not fully paid/ paid in two times <a class="anchor" id="section_3_2_4"></a>
 
 
-```python
-Image(r'C:\Users\Tristan\Documents\IMPORTANT\MOOCs\ExcelMOOC\Pres excel project\pic\condi_paid.JPG')
-```
-
-
-
-
-    
-![jpeg](output_32_0.jpg)
-    
-
+![excel_project1]( https://github.com/TristanT56/Optimisation-and-automation-of-a-real-company-s-invoice-handling-and-tax-reporting-system-in-Excel/blob/main/Images%20for%20Readme%20markdown/output_32_0.jpg)
 
 
 **Comment:**
@@ -346,17 +234,7 @@ The conditional formatting rule is used here to highlight cells to highlight the
 #### 5) Conditional formatting - Case of an 'avoir' (credit on the invoice) <a class="anchor" id="section_3_2_5"></a>
 
 
-```python
-Image(r'C:\Users\Tristan\Documents\IMPORTANT\MOOCs\ExcelMOOC\Pres excel project\pic\avoir.JPG')
-```
-
-
-
-
-    
-![jpeg](output_35_0.jpg)
-    
-
+![excel_project1]( https://github.com/TristanT56/Optimisation-and-automation-of-a-real-company-s-invoice-handling-and-tax-reporting-system-in-Excel/blob/main/Images%20for%20Readme%20markdown/output_35_0.jpg)
 
 
 **Comment:**
@@ -364,19 +242,9 @@ Image(r'C:\Users\Tristan\Documents\IMPORTANT\MOOCs\ExcelMOOC\Pres excel project\
 The conditional formatting rule is used here to help the user deal with the case of an 'avoir' (=credit to the invoice). When the user puts an 'A' in the invoice number, or an 'avoir' in the mission or note cell, the conditional formatting is activated. The invoice number, the mission and the note cells turn blue. Furthermore, the amount in 'Reste du' (= the amount still to be paid) and in the totals, also becomes blue and strikethrough. All this allows users to see directly which line is a 'avoir' and better understand what is happening with this situation.
 
 ### 3 - The second sheet 'TVA-tab' - Presentation: <a class="anchor" id="section_3_3"></a>
-
-
-```python
-Image(r'C:\Users\Tristan\Documents\IMPORTANT\MOOCs\ExcelMOOC\Pres excel project\pic\full_TVA_sheet.JPG')
-```
-
-
-
-
     
-![jpeg](output_38_0.jpg)
     
-
+![excel_project1]( https://github.com/TristanT56/Optimisation-and-automation-of-a-real-company-s-invoice-handling-and-tax-reporting-system-in-Excel/blob/main/Images%20for%20Readme%20markdown/output_38_0.jpg)
 
 
 **Goal of this sheet:** 
@@ -390,19 +258,8 @@ Image(r'C:\Users\Tristan\Documents\IMPORTANT\MOOCs\ExcelMOOC\Pres excel project\
 
 To understand how it works, I will create a new row/invoice in the main sheet FACTURATIONS as an example. Let's say I sent the invoice to the company "test" on 09/02/2019 and the company "test" sent me the cheque/money on 10/02/2019 (fully paid, no problem, all green).  See below:
 
-
-
-```python
-Image(r'C:\Users\Tristan\Documents\IMPORTANT\MOOCs\ExcelMOOC\Pres excel project\pic\example.JPG')
-```
-
-
-
-
     
-![jpeg](output_42_0.jpg)
-    
-
+![excel_project1]( https://github.com/TristanT56/Optimisation-and-automation-of-a-real-company-s-invoice-handling-and-tax-reporting-system-in-Excel/blob/main/Images%20for%20Readme%20markdown/output_42_0.jpg)
 
 
 Now let's assume that my accountant needs the February tax reports. So I need to update the TVA-tab sheet to see my new paid invoice in the tab so that I have the correct TVA total with all the tax records to give to my accountant. 
@@ -420,32 +277,12 @@ Now let's assume that my accountant needs the February tax reports. So I need to
 
 **See the image below to follow my explanation:**
 
-
-```python
-Image(r'C:\Users\Tristan\Documents\IMPORTANT\MOOCs\ExcelMOOC\Pres excel project\pic\buton_alltab.JPG')
-```
-
-
-
-
     
-![jpeg](output_44_0.jpg)
+![excel_project1]( https://github.com/TristanT56/Optimisation-and-automation-of-a-real-company-s-invoice-handling-and-tax-reporting-system-in-Excel/blob/main/Images%20for%20Readme%20markdown/output_44_0.jpg)
+
+
+![excel_project1]( https://github.com/TristanT56/Optimisation-and-automation-of-a-real-company-s-invoice-handling-and-tax-reporting-system-in-Excel/blob/main/Images%20for%20Readme%20markdown/output_45_0.jpg)
     
-
-
-
-
-```python
-Image(r'C:\Users\Tristan\Documents\IMPORTANT\MOOCs\ExcelMOOC\Pres excel project\pic\ex_all_updated.JPG')
-```
-
-
-
-
-    
-![jpeg](output_45_0.jpg)
-    
-
 
 
 **Result:** 
@@ -460,19 +297,9 @@ The button which we used (which updates all rows/invoices in the FACTURATONS she
 
 To illustrate this case I have created a new invoice as example. Let's say I sent the invoice to the company "test 2" on 09/02/2019 and the company "test 2" sent me the cheque/money on 01/02/2019 (fully paid, no problem, all green). This time I also mentioned that I put the money in the bank on 05/02/2019 (column 'Déposé le'). See below:
 
-
-```python
-Image(r'C:\Users\Tristan\Documents\IMPORTANT\MOOCs\ExcelMOOC\Pres excel project\pic\test2.JPG')
-```
-
-
-
-
     
-![jpeg](output_49_0.jpg)
+![excel_project1]( https://github.com/TristanT56/Optimisation-and-automation-of-a-real-company-s-invoice-handling-and-tax-reporting-system-in-Excel/blob/main/Images%20for%20Readme%20markdown/output_49_0.jpg)
     
-
-
 
 Same case scenario: let's assume that my accountant needs the February tax reports. So I need to update the TVA-tab sheet to see my new paid invoice in the tab so that I have the correct TVA total with all the tax records to give to my accountant. 
 
@@ -488,30 +315,11 @@ Same case scenario: let's assume that my accountant needs the February tax repor
 
 **See the image below to follow my explanation:**
 
-
-```python
-Image(r'C:\Users\Tristan\Documents\IMPORTANT\MOOCs\ExcelMOOC\Pres excel project\pic\button_test2.JPG')
-```
-
-
-
-
+   
+![excel_project1]( https://github.com/TristanT56/Optimisation-and-automation-of-a-real-company-s-invoice-handling-and-tax-reporting-system-in-Excel/blob/main/Images%20for%20Readme%20markdown/output_51_0.jpg)
     
-![jpeg](output_51_0.jpg)
     
-
-
-
-
-```python
-Image(r'C:\Users\Tristan\Documents\IMPORTANT\MOOCs\ExcelMOOC\Pres excel project\pic\test2_updated.JPG')
-```
-
-
-
-
-    
-![jpeg](output_52_0.jpg)
+![excel_project1]( https://github.com/TristanT56/Optimisation-and-automation-of-a-real-company-s-invoice-handling-and-tax-reporting-system-in-Excel/blob/main/Images%20for%20Readme%20markdown/output_52_0.jpg)
     
 
 
@@ -529,32 +337,11 @@ The calculations are automatic and I get the totals directly.
 
 **Before sending it to my accountant, I can remove the highlighting by using the last button we haven't used yet:**
 
-
-```python
-Image(r'C:\Users\Tristan\Documents\IMPORTANT\MOOCs\ExcelMOOC\Pres excel project\pic\remove_h.JPG')
-```
-
-
-
-
     
-![jpeg](output_54_0.jpg)
+![excel_project1]( https://github.com/TristanT56/Optimisation-and-automation-of-a-real-company-s-invoice-handling-and-tax-reporting-system-in-Excel/blob/main/Images%20for%20Readme%20markdown/output_54_0.jpg)
     
-
-
-
-
-```python
-Image(r'C:\Users\Tristan\Documents\IMPORTANT\MOOCs\ExcelMOOC\Pres excel project\pic\test22.JPG')
-```
-
-
-
-
     
-![jpeg](output_55_0.jpg)
-    
-
+![excel_project1]( https://github.com/TristanT56/Optimisation-and-automation-of-a-real-company-s-invoice-handling-and-tax-reporting-system-in-Excel/blob/main/Images%20for%20Readme%20markdown/output_55_0.jpg)
 
 
 It's all good now, I can copy it and send it to my accountant.
@@ -574,19 +361,9 @@ To make this work, I also used hidden cells as references so that the system kno
 
 Here are these cells (you will see them mentioned in the code):
 
-
-```python
-Image(r'C:\Users\Tristan\Documents\IMPORTANT\MOOCs\ExcelMOOC\Pres excel project\pic\hidden.JPG')
-```
-
-
-
-
     
-![jpeg](output_59_0.jpg)
+![excel_project1]( https://github.com/TristanT56/Optimisation-and-automation-of-a-real-company-s-invoice-handling-and-tax-reporting-system-in-Excel/blob/main/Images%20for%20Readme%20markdown/output_59_0.jpg)
     
-
-
 
 **Comment:** as mentioned earlier, these cells are normally hidden and are only there for the code/system to work. Indeed, the functions in the code will look to see if there is a 'Oui' in the V or Z column, which means that a manual change has been made to the row/invoice and therefore that this row/invoice needs to be updated in the TVA-tab. If there is no 'Oui', it means that everything is already in the TVA-tab.
 
