@@ -369,7 +369,7 @@ Here are these cells (you will see them mentioned in the code):
 
 **Next, the full code:**
 
-
+```
 Public Sub DerLigneMAJ()
     Worksheets("FACTURATION-Tab").Select
     trierDate
@@ -1496,7 +1496,7 @@ Public Sub nettoyage()
                             Loop
                         End If
 End Sub
-
+```
 -----------
 
 ## Conclusion <a class="anchor" id="chapter5"></a>
