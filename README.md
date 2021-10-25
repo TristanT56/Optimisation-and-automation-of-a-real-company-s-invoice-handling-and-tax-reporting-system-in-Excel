@@ -1501,6 +1501,6 @@ End Sub
 
 ## Conclusion <a class="anchor" id="chapter5"></a>
     
-This project is not perfect, I am sure that bugs can occur and the overall system can of course be optimised. However, this was not just a classic case study project, it is a real project with a system that has been used for almost 3 years now, every month, by a real professional and it has worked perfectly so far. Indeed, so far he hasn't had any problems or bugs with it, so I'm happy. And most importantly, this person tells me that this Excel saves him between 30 minutes and 1 hour every month. Year after year that's pretty huge! 
+This project is not perfect, I am sure that bugs can occur and the overall system can of course be optimised. However, this was not just a classic case study project, it is a real project with a system that has been used for almost 3 years now, every month, by a real professional and it has worked perfectly so far. Indeed, so far he hasn't had any problems or bugs with it, so I'm happy. And most importantly, this person tells me that this Excel saves him between 1H and 2H every month. Year after year that's pretty huge! 
 
 In the end, this was my first Excel Advanced project and I'm proud of it.
